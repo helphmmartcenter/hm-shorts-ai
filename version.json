@@ -1,5 +1,5 @@
 {
-  "version": "1.14",
-  "download_url": "https://github.com/helphmmartcenter/hm-shorts-ai/raw/main/HM_Shorts_AI_v1.14.zip",
-  "message": "HM Shorts AI v1.14 - Watchdog Timer Added!"
+  "version": "1.15",
+  "download_url": "https://github.com/helphmmartcenter/hm-shorts-ai/raw/main/HM_Shorts_AI_v1.15.zip",
+  "message": "v1.15 — Major Update: Tab ID tracking for correct video titles, Live Tab Monitor, Login page auto-detection with popup, 30-second startup timer (adjustable), 5-minute network reconnect timer, Zero retry on errors (instant skip), FIFO download queue, Master key support, Stop button auto-clears session."
 }
